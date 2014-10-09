@@ -3,7 +3,7 @@ define({
     //default web map, default app color theme and more. These values can be overwritten by template configuration settings
     //and url parameters.
     "appid": "",
-    "webmap": "df8bcc10430f48878b01c96e907a1fc3",
+    "webmap": "09e2221c081942b8a3b5a9f61e34761b",
     "oauthappid": null,
     //Enter the url to the proxy if needed by the applcation. See the "Using the proxy page" help topic for details
     //developers.arcgis.com/en/javascript/jshelp/ags_proxy.html
@@ -11,22 +11,22 @@ define({
     //Example of a template specific property. If your template had several color schemes
     //you could define the default here and setup configuration settings to allow users to choose a different
     //color theme.
-    "title": "",
-    "summary": "",
-    "defaultPanel": "legend",
+    "title": "Tsunami Inundation Areas - DRAFT",
+    "summary": "Tsunami Inundation Areas from WA DNR and NOAA models",
+    "defaultPanel": "about",
     "enableSummaryInfo": true,
-    "enableLegendPanel": true,
+    "enableLegendPanel": false,
     "enableAboutPanel": true,
-    "enableLayersPanel": true,
+    "enableLayersPanel": false,
     "enableHomeButton": true,
     "enableLocateButton": true,
-    "enableBasemapToggle": true,
+    "enableBasemapToggle": false,
     "enableShareDialog": true,
     "enableBookmarks": true,
     "enableOverviewMap": true,
     "openOverviewMap": false,
-    "enableModifiedDate": true,
-    "enableViewsCount": true,
+    "enableModifiedDate": false,
+    "enableViewsCount": false,
     "enableMoreInfo": true,
     "defaultBasemap": "topo",
     "nextBasemap": "hybrid",
@@ -65,9 +65,9 @@ define({
     //Enter the url to your organizations bing maps key if you want to use bing basemaps
     "bingmapskey": "",
     //Defaults to arcgis.com. Set this value to your portal or organization host name.
-    "sharinghost": location.protocol + "//" + "www.arcgis.com",
+    "sharinghost": location.protocol + "//" + "sjcgis.maps.arcgis.com",
     //When true the template will query arcgis.com for default settings for helper services, units etc. If you 
-    "units": null,
+    "units": true,
     "helperServices": {
         "geometry": {
             "url": null
