@@ -12,10 +12,10 @@ define({
     //you could define the default here and setup configuration settings to allow users to choose a different
     //color theme.
     "title": "Tsunami Inundation Areas - DRAFT",
-    "summary": "Tsunami Inundation Areas from WA DNR and NOAA models",
+    "summary": "",
     "defaultPanel": "about",
     "enableSummaryInfo": true,
-    "enableLegendPanel": false,
+    "enableLegendPanel": true,
     "enableAboutPanel": true,
     "enableLayersPanel": false,
     "enableHomeButton": true,
