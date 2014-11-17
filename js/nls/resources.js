@@ -12,7 +12,7 @@ define({
         },
         mapNotes:{
             notesUnavailable: "Description unavailable",
-            bookmarks: "Heavily Impacted Zones",
+            bookmarks: "Selected Zones of Heavy Impact",
             zoomTo: "Zoom to this location and find out more information.",
             untitledNote: "Untitled"
         },

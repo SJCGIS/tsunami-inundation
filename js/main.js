@@ -241,6 +241,7 @@ function(
                 content += '<div class="' + this.css.panelPadding + '">';
                 content += '<div id="twitter_legend_auth"></div>';
                 content += '<div id="LegendDiv"></div>';
+		content += '<div id="LegendDesc">' + this.config.legendDescription + '</div>';
                 content += '</div>';
                 content += '</div>';
                 // menu info
