@@ -13,14 +13,11 @@ define({
     //color theme.
     "title": "Tsunami Inundation Areas - DRAFT",
     "summary": "",
-<<<<<<< HEAD
-    "defaultPanel": "legend",
+    "defaultPanel": "about",
     "enableDialogModal": false,
     "dialogModalContent": "",
     "dialogModalTitle": "",
-=======
     "defaultPanel": "about",
->>>>>>> master
     "enableSummaryInfo": true,
     "enableLegendPanel": true,
     "enableAboutPanel": true,
