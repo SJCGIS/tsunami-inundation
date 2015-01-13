@@ -12,14 +12,14 @@ define({
     //you could define the default here and setup configuration settings to allow users to choose a different
     //color theme.
     "title": "Tsunami Inundation Areas - DRAFT",
-    "summary": "",
+    "summary": "Modeling by <a href='http://www.dnr.wa.gov/ResearchScience/Topics/GeologicHazardsMapping/Pages/tsunamis.aspx' target='_blank'>WA DNR</a> and <a href='http://www.pmel.noaa.gov/' target='_blank'>NOAA</a>, based on a 9.0 Cascadia subduction zone quake.",
     "enableDialogModal": true,
     "dialogModalContent": "",
     "dialogModalTitle": "Attention",
     "defaultPanel": "legend",
     "enableSummaryInfo": true,
     "enableLegendPanel": true,
-    "legendDescription": "Please note that these predictions are intended for general guidance only. Actual depths and impacts will vary. Maps should be used to interpret impacts on a neighborhood level or greater. Use caution and common sense at all times.",
+    "legendDescription": "Please note that these predictions are intended for general guidance only. Actual depths and impacts will vary. Maps should be used to interpret impacts on a neighborhood level or greater. Use caution and common sense at all times. More info: <a href='http://sanjuandem.net/tsunami' target='_blank'>http://sanjuandem.net/tsunami</a>",
     "enableAboutPanel": true,
     "enableLayersPanel": false,
     "enableHomeButton": true,
