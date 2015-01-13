@@ -12,7 +12,7 @@ define({
     //you could define the default here and setup configuration settings to allow users to choose a different
     //color theme.
     "title": "Tsunami Inundation Areas - DRAFT",
-    "summary": "Modeling by <a href='http://www.dnr.wa.gov/ResearchScience/Topics/GeologicHazardsMapping/Pages/tsunamis.aspx' target='_blank'>WA DNR</a> and <a href='http://www.pmel.noaa.gov/' target='_blank'>NOAA</a>, based on a 9.0 Cascadia subduction zone quake.",
+    "summary": "Modeling by WA DNR and NOAA, based on a 9.0 Cascadia subduction zone quake.",
     "enableDialogModal": true,
     "dialogModalContent": "",
     "dialogModalTitle": "Attention",
